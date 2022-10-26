@@ -1,4 +1,4 @@
-package org.mdream.eurekaclient;
+package org.mdream.micro.demo.eurekaclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

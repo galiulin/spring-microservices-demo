@@ -1,4 +1,4 @@
-package org.mdream.eurekaserver;
+package org.mdream.micro.demo.eurekaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

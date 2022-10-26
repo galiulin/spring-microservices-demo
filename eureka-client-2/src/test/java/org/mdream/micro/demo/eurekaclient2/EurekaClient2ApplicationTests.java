@@ -1,10 +1,10 @@
-package org.mdream.eurekaclient;
+package org.mdream.micro.demo.eurekaclient2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EurekaClientApplicationTests {
+class EurekaClient2ApplicationTests {
 
     @Test
     void contextLoads() {

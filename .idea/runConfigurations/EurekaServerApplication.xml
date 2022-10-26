@@ -2,7 +2,7 @@
   <configuration default="false" name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
     <option name="ACTIVE_PROFILES" />
     <module name="org.mdream.eureka-server.main" />
-    <option name="SPRING_BOOT_MAIN_CLASS" value="org.mdream.eurekaserver.EurekaServerApplication" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="org.mdream.micro.demo.eurekaserver.EurekaServerApplication" />
     <method v="2">
       <option name="Make" enabled="true" />
     </method>

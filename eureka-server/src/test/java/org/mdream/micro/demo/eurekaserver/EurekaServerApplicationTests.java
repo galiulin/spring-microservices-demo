@@ -1,4 +1,4 @@
-package org.mdream.eurekaserver;
+package org.mdream.micro.demo.eurekaserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
